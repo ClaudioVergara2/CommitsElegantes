@@ -1,7 +1,5 @@
 # Construir commits más elegantes
 
-# Commits
-
 Los commits deben representar un objetivo específico, no se debe mezclar más de una
 funcionalidad en el mismo commit, si tributan a objetivos diferentes, son commits
 diferentes.
