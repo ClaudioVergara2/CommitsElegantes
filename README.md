@@ -48,7 +48,7 @@ webservices estará disponible en el siguiente commit.
 
 # Tabla de prefijos
 
-[![Prefijos](https://github.com/ClaudioVergara2/CommitsElegantes/blob/main/Prefijos.jpg)
+![Prefijos](https://github.com/ClaudioVergara2/CommitsElegantes/blob/main/Prefijos.jpg)
 
 # Ramas
 
