@@ -35,10 +35,31 @@ documentación, entre otros. Al igual que el cuerpo, el pie de página debe esta
 del cuerpo por una línea en blanco, el texto debe comenzar por mayúscula y terminar en
 punto.
 
-# Ejemplo de un commit
+### Ejemplo de un commit
 
 > ##### [feat] Añadir autenticación en dos pasos
 
 El código de verificación se puede enviar mediante diferentes canales, estos son: SMS,
 llamada telefónica, whatsapp o email. También se habilitan web services que permiten
 agregar, editar y eliminar canales de autenticación.
+
+Responde a la característica solicitada en el issue #2000, la documentación de los
+webservices estará disponible en el siguiente commit.
+
+# Tabla de prefijos
+
+[![Prefijos](https://github.com/ClaudioVergara2/CommitsElegantes/commit/4bb2c08a869b4e4e0d16504262909c97bd45897a)
+
+# Ramas
+
+Cada proyecto deberá contar con las ramas Main y Develop.
+
+La rama "Main" es la rama principal del proyecto, y es equivalente a la versión en
+producción. Esta rama solo debe contener el código que ha sido debidamente probado y
+aprobado para ser implementado en el software en producción.
+
+Por otro lado, la rama "Develop" se utiliza para realizar integraciones entre los diferentes
+desarrolladores. En esta rama se mezclan los cambios y nuevas funcionalidades de los
+diferentes miembros del equipo, y se llevan a cabo las pruebas necesarias para asegurar
+que todo el código se integra sin problemas.
+
